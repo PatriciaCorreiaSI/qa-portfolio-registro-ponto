@@ -1,6 +1,6 @@
 # QA — Sistema de Registro de Ponto (projeto de estudo)
 
-Portfólio de **QA / Teste de Software** demonstrando desenho de casos de teste, rastreabilidade requisito → caso → defeito e reporte de bugs no padrão profissional. Documentação alinhada ao ISO/IEC/IEEE 29119-3 e à terminologia ISTQB
+Portfólio de **QA / Teste de Software** demonstrando desenho de casos de teste, rastreabilidade requisito → caso → defeito e reporte de bugs no padrão profissional. Documentação alinhada ao ISO/IEC/IEEE 29119-3 e à terminologia ISTQB (CTFL).
 
 > ⚠️ **Aviso:** este é um **sistema fictício**, criado para fins de estudo. Nomes de usuário, senhas, clientes, evidências e cenários são **ilustrativos e não reais**, e não representam nenhum produto ou empresa.
 
